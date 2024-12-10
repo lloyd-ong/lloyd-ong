@@ -46,6 +46,6 @@ I am constantly learning and refining my skills. Here's what I'm currently focus
 📬 Let's Connect!
 -----------------
 
-I’m always open to discussing data analytics, machine learning, and business insights. Feel free to reach out via:
+ I’m always open to discussing data analytics, machine learning, or how data can drive business success.
 
 Looking forward to connecting with you!
